@@ -136,7 +136,7 @@ interests:
 
 <br/>
 
-<a href="https://github.com/pmaheshwari1903/oidc-auth-server">
+<a href="https://github.com/pmaheshwari1903/OIDC-AUTH.git">
   <img src="https://img.shields.io/badge/View_Repository-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 
@@ -182,7 +182,7 @@ interests:
 
 <br/>
 
-<a href="https://github.com/pmaheshwari1903/srm-prephub">
+<a href="https://github.com/pmaheshwari1903/SRMPREPHUB.git">
   <img src="https://img.shields.io/badge/View_Repository-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 
@@ -227,7 +227,7 @@ interests:
 
 <br/>
 
-<a href="https://github.com/pmaheshwari1903/youtube-notes-ai">
+<a href="https://github.com/pmaheshwari1903/Youtube-notes-ai.git">
   <img src="https://img.shields.io/badge/View_Repository-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 
@@ -273,7 +273,7 @@ interests:
 
 <br/>
 
-<a href="https://github.com/pmaheshwari1903/kafka-live-location-tracker">
+<a href="https://github.com/pmaheshwari1903/kafka-live-location-tracker.git">
   <img src="https://img.shields.io/badge/View_Repository-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 
@@ -317,7 +317,7 @@ interests:
 
 <br/>
 
-<a href="https://github.com/pmaheshwari1903/one-million-checkboxes">
+<a href="https://github.com/pmaheshwari1903/one-million-checkboxes-socket-io.git">
   <img src="https://img.shields.io/badge/View_Repository-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 
@@ -360,7 +360,7 @@ interests:
 
 <br/>
 
-<a href="https://github.com/pmaheshwari1903/srm-menu">
+<a href="https://github.com/pmaheshwari1903/Menu-SRM.git">
   <img src="https://img.shields.io/badge/View_Repository-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 
