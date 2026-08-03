@@ -30,7 +30,7 @@
 <a href="https://github.com/pmaheshwari1903">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>&nbsp;
-<a href="www.linkedin.com/in/parth-maheshwari-0a92662a0">
+<a href="https://www.linkedin.com/in/parth-maheshwari-0a92662a0">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="mailto:pmaheshwari.1903@gmail.com">
@@ -98,7 +98,6 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/pmaheshwari1903/oidc-auth-server">
 <table>
 <tr>
 <td width="900" align="center">
@@ -146,7 +145,6 @@ interests:
 </td>
 </tr>
 </table>
-</a>
 
 </div>
 
@@ -156,7 +154,6 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/pmaheshwari1903/srm-prephub">
 <table>
 <tr>
 <td width="900" align="center">
@@ -194,7 +191,6 @@ interests:
 </td>
 </tr>
 </table>
-</a>
 
 </div>
 
@@ -204,7 +200,6 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/pmaheshwari1903/youtube-notes-ai">
 <table>
 <tr>
 <td width="900" align="center">
@@ -241,7 +236,6 @@ interests:
 </td>
 </tr>
 </table>
-</a>
 
 </div>
 
@@ -251,7 +245,6 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/pmaheshwari1903/kafka-live-location-tracker">
 <table>
 <tr>
 <td width="900" align="center">
@@ -289,7 +282,6 @@ interests:
 </td>
 </tr>
 </table>
-</a>
 
 </div>
 
@@ -299,7 +291,6 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/pmaheshwari1903/one-million-checkboxes">
 <table>
 <tr>
 <td width="900" align="center">
@@ -335,7 +326,6 @@ interests:
 </td>
 </tr>
 </table>
-</a>
 
 </div>
 
@@ -343,7 +333,6 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/pmaheshwari1903/srm-menu">
 <table>
 <tr>
 <td width="900" align="center">
@@ -380,7 +369,6 @@ interests:
 </td>
 </tr>
 </table>
-</a>
 
 </div>
 
@@ -525,11 +513,7 @@ interests:
 <!-- Snake Animation -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pmaheshwari1903/pmaheshwari1903/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pmaheshwari1903/pmaheshwari1903/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/pmaheshwari1903/pmaheshwari1903/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
@@ -633,11 +617,11 @@ interests:
   <img src="https://img.shields.io/badge/GitHub-pmaheshwari1903-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <br/><br/>
-<a href="www.linkedin.com/in/parth-maheshwari-0a92662a0">
+<a href="https://www.linkedin.com/in/parth-maheshwari-0a92662a0">
   <img src="https://img.shields.io/badge/LinkedIn-Parth%20Maheshwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <br/><br/>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:pmaheshwari.1903@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <br/><br/>
