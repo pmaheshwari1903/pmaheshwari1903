@@ -466,13 +466,13 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/pmaheshwari1903">
+<!-- <a href="https://github.com/pmaheshwari1903">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=pmaheshwari1903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=94a3b8&ring_color=a855f7&count_private=true" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/pmaheshwari1903">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmaheshwari1903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&langs_count=8" alt="Top Languages"/>
-</a>
+</a> -->
 
 </div>
 
@@ -489,15 +489,15 @@ interests:
 <br/>
 
 <!-- GitHub Trophies -->
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/pmaheshwari1903">
   <img src="https://github-profile-trophy.vercel.app/?username=pmaheshwari1903&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </a>
 
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- Contribution Graph -->
 <div align="center">
