@@ -513,7 +513,7 @@ interests:
 <!-- Snake Animation -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/pmaheshwari1903/pmaheshwari1903/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
