@@ -510,10 +510,12 @@ interests:
 
 <br/>
 
-<!-- Snake Animation -->
+<!-- 3D Contribution Graph -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pmaheshwari1903/pmaheshwari1903/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+<a href="https://github.com/pmaheshwari1903">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%"/>
+</a>
 
 </div>
 
