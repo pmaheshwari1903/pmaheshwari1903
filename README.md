@@ -36,8 +36,8 @@
 <a href="mailto:pmaheshwari.1903@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<a href="https://portfolio-sigma-eight-wbpvbs5q1v.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -627,7 +627,7 @@ interests:
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <br/><br/>
-<a href="#">
+<a href="https://portfolio-sigma-eight-wbpvbs5q1v.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
